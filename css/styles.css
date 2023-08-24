@@ -10,11 +10,10 @@ button {
   cursor: pointer;
 }
 
-
 .body {
   font-family: "Roboto", sans-serif;
   color: #434455;
-  background-color: #FFFFFF;
+  background-color: #ffffff;
 }
 
 /* PAGE HEADER */
@@ -59,7 +58,7 @@ button {
 }
 
 .address-list-link {
-  color:  #434455;
+  color: #434455;
   font-family: "Roboto", sans-serif;
   font-size: 16px;
   line-height: 1.5;
@@ -78,8 +77,8 @@ button {
 }
 
 .section-head-titel {
-  color: #FFFFFF;
-  background:  #2e2f42;
+  color: #ffffff;
+  background: #2e2f42;
   text-align: center;
   font-family: "Roboto", sans-serif;
   font-size: 56px;
@@ -94,12 +93,12 @@ button {
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.04em;
-  color: #FFFFFF;
+  color: #ffffff;
 }
 
 .section-head-buttom:hover,
 .section-head-buttom:focus {
-  background:  #404bbf;
+  background: #404bbf;
 }
 
 /* OUR ADVANTAGES */
@@ -113,7 +112,7 @@ button {
 }
 
 .advantages-list-paragraph {
-  color:  #434455;
+  color: #434455;
   font-family: "Roboto", sans-serif;
   font-size: 16px;
   line-height: 1.5;
@@ -126,12 +125,8 @@ button {
   background-color: #f4f4fd;
 }
 
-.section-team-list {
-  background-color: #FFFFFF;
-}
-
 .team-list-item {
-  background-color: #FFFFFF
+  background-color: #ffffff;
 }
 
 .section-team-head {
@@ -146,11 +141,11 @@ button {
 }
 
 .team-img {
-  background:  #fff;
+  background: #fff;
 }
 
 .team-head {
-  color:  #2e2f42;
+  color: #2e2f42;
   text-align: center;
   font-family: "Roboto", sans-serif;
   font-size: 20px;
@@ -171,11 +166,11 @@ button {
 /* OUR PORTFOLIO */
 
 .section-portfolio-list {
-  background-color: #FFFFFF;
+  background-color: #ffffff;
 }
 
 .section-portfolio-head {
-  color:  #2e2f42;
+  color: #2e2f42;
   text-align: center;
   font-family: "Roboto", sans-serif;
   font-size: 36px;
@@ -186,8 +181,7 @@ button {
 }
 
 .portfolio-img {
-  border: 1px solid #e7e9fc;
-  background:  #fff;
+  background: #fff;
 }
 
 .portfolio-head {
@@ -224,7 +218,7 @@ button {
 }
 
 .footer-link {
-  color:  #4d5ae5;
+  color: #4d5ae5;
   font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-weight: 700;
@@ -234,11 +228,10 @@ button {
 }
 
 .footer-paragraph {
-  color: #F4F4FD;
+  color: #f4f4fd;
   font-family: "Roboto", sans-serif;
-font-size: 16px;
-line-height: 1.5;
-letter-spacing: 0.02em;
-font-weight: 400.
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  font-weight: 400;
 }
-
