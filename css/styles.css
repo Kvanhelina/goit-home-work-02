@@ -126,6 +126,14 @@ button {
   background-color: #f4f4fd;
 }
 
+.section-team-list {
+  background-color: #FFFFFF;
+}
+
+.team-list-item {
+  background-color: #FFFFFF
+}
+
 .section-team-head {
   color: #2e2f42;
   text-align: center;
@@ -135,10 +143,6 @@ button {
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-transform: capitalize;
-}
-
-.section-team-list {
-  background-color: #FFFFFF;
 }
 
 .team-img {
@@ -195,7 +199,7 @@ button {
   letter-spacing: 0.02em;
 }
 
-.portfolio-patagraph {
+.portfolio-paragraph {
   color: #434455;
   font-family: "Roboto", sans-serif;
   font-size: 16px;
