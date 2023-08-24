@@ -49,8 +49,6 @@ button {
 .menu-link:hover,
 .menu-link:focus {
   color: #404bbf;
-  display: flex;
-  flex-shrink: 0;
 }
 
 .address {
@@ -181,6 +179,7 @@ button {
 }
 
 .portfolio-img {
+  border: 1px solid #e7e9fc;
   background: #fff;
 }
 
