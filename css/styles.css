@@ -10,14 +10,14 @@ button {
   cursor: pointer;
 }
 
-body {
+.body {
   font-family: "Roboto", sans-serif;
   color: #434455;
   background-color: #FFFFFF;
 }
 
 /* PAGE HEADER */
-.logo-web {
+.logo-studio {
   color: #4d5ae5;
   font-family: "Raleway", sans-serif;
   font-size: 18px;
@@ -59,7 +59,7 @@ body {
 }
 
 .address-list-link {
-  color: var(--slate, #434455);
+  color:  #434455;
   font-family: "Roboto", sans-serif;
   font-size: 16px;
   font-style: normal;
@@ -79,7 +79,7 @@ body {
 }
 
 .section-head-titel {
-  color: #fff;
+  color: #FFFFFF;
   background:  #2e2f42;
   text-align: center;
   font-family: "Roboto", sans-serif;
@@ -95,16 +95,17 @@ body {
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.04em;
+  color: #FFFFFF;
 }
 
 .section-head-buttom:hover,
 .section-head-buttom:focus {
-  background: var(--ocean, #404bbf);
+  background:  #404bbf;
 }
 
 /* OUR ADVANTAGES */
 .advantages-list-head {
-  color: var(--navyblue, #2e2f42);
+  color: #2e2f42;
   font-family: "Roboto", sans-serif;
   font-size: 20px;
   font-weight: 500;
@@ -113,7 +114,7 @@ body {
 }
 
 .advantages-list-paragraph {
-  color: var(--slate, #434455);
+  color:  #434455;
   font-family: "Roboto", sans-serif;
   font-size: 16px;
   font-weight: 400;
@@ -124,11 +125,11 @@ body {
 /* OUR TEAM */
 
 .section-team {
-  background-color: #f4f4fd;
+  background-color: #FFFFFF;
 }
 
 .section-team-head {
-  color: var(--navyblue, #2e2f42);
+  color: #2e2f42;
   text-align: center;
   font-family: "Roboto", sans-serif;
   font-size: 36px;
@@ -139,11 +140,11 @@ body {
 }
 
 .team-img {
-  background: var(--white, #fff);
+  background:  #fff;
 }
 
 .team-head {
-  color: var(--navyblue, #2e2f42);
+  color:  #2e2f42;
   text-align: center;
   font-family: "Roboto", sans-serif;
   font-size: 20px;
@@ -153,7 +154,7 @@ body {
 }
 
 .team-paragraph {
-  color: var(--slate, #434455);
+  color: #434455;
   text-align: center;
   font-family: "Roboto", sans-serif;
   font-size: 16px;
@@ -165,7 +166,7 @@ body {
 /* OUR PORTFOLIO */
 
 .section-portfolio-head {
-  color: var(--navyblue, #2e2f42);
+  color:  #2e2f42;
   text-align: center;
   font-family: "Roboto", sans-serif;
   font-size: 36px;
@@ -178,7 +179,6 @@ body {
 .portfolio-img {
   border: 1px solid #e7e9fc;
   background:  #fff;
-  width: 360;
 }
 
 .portfolio-head {
@@ -186,7 +186,7 @@ body {
   font-family: "Roboto", sans-serif;
   font-size: 20px;
   font-weight: 500;
-  line-height: 1.2;
+  line-height: 1.5;
   letter-spacing: 0.02em;
 }
 
@@ -205,7 +205,7 @@ body {
   background-color: #2e2f42;
 }
 
-.footer-link {
+.footer-studio {
   color: #f4f4fd;
   font-family: "Raleway", sans-serif;
   font-size: 18px;
@@ -215,7 +215,7 @@ body {
   text-transform: uppercase;
 }
 
-.footer-studio {
+.footer-link {
   color:  #4d5ae5;
   font-family: "Raleway", sans-serif;
   font-size: 18px;
