@@ -39,7 +39,6 @@ button {
 
 .menu-link {
   color: #2e2f42;
-  font-family: "Roboto", sans-serif;
   font-size: 16px;
   font-weight: 500;
   line-height: 1.5;
@@ -57,7 +56,6 @@ button {
 
 .address-list-link {
   color: #434455;
-  font-family: "Roboto", sans-serif;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -78,7 +76,6 @@ button {
   color: #ffffff;
   background: #2e2f42;
   text-align: center;
-  font-family: "Roboto", sans-serif;
   font-size: 56px;
   font-weight: 700;
   line-height: 1.07;
@@ -86,8 +83,8 @@ button {
 }
 
 .section-head-buttom {
-  font-family: "Roboto", sans-serif;
   background: #4d5ae5;
+  font-family: "Roboto", sans-serif;
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.04em;
@@ -102,7 +99,6 @@ button {
 /* OUR ADVANTAGES */
 .advantages-list-head {
   color: #2e2f42;
-  font-family: "Roboto", sans-serif;
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
@@ -111,7 +107,6 @@ button {
 
 .advantages-list-paragraph {
   color: #434455;
-  font-family: "Roboto", sans-serif;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -130,7 +125,6 @@ button {
 .section-team-head {
   color: #2e2f42;
   text-align: center;
-  font-family: "Roboto", sans-serif;
   font-size: 36px;
   font-weight: 700;
   line-height: 1.11;
@@ -145,7 +139,6 @@ button {
 .team-head {
   color: #2e2f42;
   text-align: center;
-  font-family: "Roboto", sans-serif;
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
@@ -155,7 +148,6 @@ button {
 .team-paragraph {
   color: #434455;
   text-align: center;
-  font-family: "Roboto", sans-serif;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -170,7 +162,6 @@ button {
 .section-portfolio-head {
   color: #2e2f42;
   text-align: center;
-  font-family: "Roboto", sans-serif;
   font-size: 36px;
   font-weight: 700;
   line-height: 1.2;
@@ -179,13 +170,11 @@ button {
 }
 
 .portfolio-img {
-  border: 1px solid #e7e9fc;
   background: #fff;
 }
 
 .portfolio-head {
   color: #2e2f42;
-  font-family: "Roboto", sans-serif;
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
@@ -194,7 +183,6 @@ button {
 
 .portfolio-paragraph {
   color: #434455;
-  font-family: "Roboto", sans-serif;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -228,7 +216,6 @@ button {
 
 .footer-paragraph {
   color: #f4f4fd;
-  font-family: "Roboto", sans-serif;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
